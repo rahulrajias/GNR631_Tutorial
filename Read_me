@@ -1,0 +1,8 @@
+The toposheet is for Ahmednagar and Nashik district.
+You need to ditize it by identifying various features like roads, village, river, vegetation etc.
+
+Make differnt features like line, point, polygon. Roads and rivers can be line feature, village boundary can be polygon. a house can be point feature.
+
+Later we will do some anlysis on the digitized sheet.
+
+All the best...
